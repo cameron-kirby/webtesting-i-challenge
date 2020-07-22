@@ -1,0 +1,14 @@
+{
+  "name": "enhancing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "enhancer.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
